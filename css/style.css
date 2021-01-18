@@ -24,10 +24,10 @@
     to make the filter to your own */
 
   --imgbg: url(/img/john-towner-JgOeRuGD_Y4-unsplash.jpg); 
-  --imgcol: linear-gradient(
+  /*--imgcol: linear-gradient(
     rgba(255, 255, 255, 0.7),
     rgba(255, 255, 255, 0.7)
-  ); /* Filter color */
+  );*/ /* Filter color */
 }
 
 /* Dark theme  */
